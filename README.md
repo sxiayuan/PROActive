@@ -7,6 +7,34 @@ A clean and minimalistic productivity app designed to help users overcome procra
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue)
 ![Supabase](https://img.shields.io/badge/Supabase-2.50.2-green)
 
+## 📱 App Store Publishing
+
+### iOS App Store Process
+- **Apple Developer Account** - Registered developer account with Apple
+- **TestFlight Distribution** - Beta testing through TestFlight for internal and external testing
+- **App Store Review** - Submission and review process through App Store Connect
+- **Production Release** - Live deployment on the App Store
+
+### Build and Distribution Process
+- **Development Builds** - Created using Expo EAS Build service
+- **TestFlight Upload** - Automated uploads for beta testing
+- **App Store Submission** - Final builds submitted for review
+- **Version Management** - Semantic versioning for app updates
+
+### Support and Legal Links
+- **📞 Support Portal**: [ProActive Support Portal](https://www.notion.so/PROActive-Support-Portal-2243549982b780668edfd6d355ef3e1d)
+- **🔒 Privacy Policy**: [Privacy Policy](https://www.freeprivacypolicy.com/live/3e73c01d-9975-463b-a111-01b42175bcdb)
+
+## 📞 Support
+
+If you have any questions or need help with the app:
+
+- **📞 Official Support Portal**: [ProActive Support Portal](https://www.notion.so/PROActive-Support-Portal-2243549982b780668edfd6d355ef3e1d)
+- **🔒 Privacy Policy**: [Privacy Policy](https://www.freeprivacypolicy.com/live/3e73c01d-9975-463b-a111-01b42175bcdb)
+- Create an issue on GitHub
+- Check the documentation in the `docs/` folder
+- Review the setup guides in the project
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
