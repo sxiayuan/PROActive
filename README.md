@@ -186,6 +186,26 @@ npm run submit:android
 npm run lint
 ```
 
+## 📱 App Store Publishing
+
+### iOS App Store
+The ProActive app is published on the iOS App Store through the following process:
+
+1. **Apple Developer Account** - Registered developer account with Apple
+2. **TestFlight Distribution** - Beta testing through TestFlight for internal and external testing
+3. **App Store Review** - Submission and review process through App Store Connect
+4. **Production Release** - Live deployment on the App Store
+
+### Build and Distribution Process
+- **Development Builds** - Created using Expo EAS Build service
+- **TestFlight Upload** - Automated uploads for beta testing
+- **App Store Submission** - Final builds submitted for review
+- **Version Management** - Semantic versioning for app updates
+
+### Support and Legal
+- **📞 Support Portal**: [ProActive Support Portal](https://www.notion.so/PROActive-Support-Portal-2243549982b780668edfd6d355ef3e1d)
+- **🔒 Privacy Policy**: [Privacy Policy](https://www.freeprivacypolicy.com/live/3e73c01d-9975-463b-a111-01b42175bcdb)
+
 ### Database Schema
 
 The app uses the following main tables:
@@ -238,6 +258,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the app:
 
+- **📞 Official Support Portal**: [ProActive Support Portal](https://www.notion.so/PROActive-Support-Portal-2243549982b780668edfd6d355ef3e1d)
+- **🔒 Privacy Policy**: [Privacy Policy](https://www.freeprivacypolicy.com/live/3e73c01d-9975-463b-a111-01b42175bcdb)
 - Create an issue on GitHub
 - Check the documentation in the `docs/` folder
 - Review the setup guides in the project
